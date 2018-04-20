@@ -1,0 +1,7 @@
+name: Test Form
+description: Module contains My Test form with autocomplete field.
+package: Custom
+
+type: module
+core: 8.x
+version: VERSION
